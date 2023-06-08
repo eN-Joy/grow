@@ -1,0 +1,5 @@
+django-spirit
+python-decouple
+scrapy
+django-debug-toolbar
+django-extensions
